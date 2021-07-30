@@ -1,4 +1,4 @@
-# image-hosting
+# PicX
 
 PicX，基于 GitHub API 开发的图床管理神器，图片外链使用 jsDelivr 进行全球 CDN 加速。免费、稳定、高效。
 免下载、免安装，只需一个 GitHub 账号，打开网站即可进行配置使用，轻松解决图床难题。
